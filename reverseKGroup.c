@@ -28,13 +28,13 @@ int main()
     head->next = NULL;
     struct ListNode* travel = head;
     int i = 0;
-    for(i = 1; i < 10; i++)
+    for(i = 1; i < 12; i++)
     {
         add(travel,i);
         travel = travel->next;
     }
     display(head);
-    head = reverseKGroup(head,5);
+    head = reverseKGroup(head,3);
     display(head);
     return 0;
 }
@@ -55,9 +55,9 @@ void display(struct ListNode* temp)
     }
     printf("\n");
 }
-
 struct ListNode* reverse(struct ListNode* temp)
 {
+    if(temp == NULL) return NULL;
     if(temp->next == NULL)
     {
         return temp;
@@ -95,12 +95,15 @@ struct ListNode* reverseKGroup(struct ListNode* head, int k)
 }
 struct ListNode* reverseKGroupD(struct ListNode* head, int k)
 {
+    if(head == NULL) return NULL;
     struct ListNode* travel = head;
     int Tcount =0;
+    //printf("lastHead->\n");
+    //display(head);
     while(1)
     {
-        if(Tcount > k - 2)
-        {   
+        if(Tcount > k - 2 && travel->next != NULL)
+        {  
             break;
         }
         else if(travel->next != NULL)
@@ -108,21 +111,36 @@ struct ListNode* reverseKGroupD(struct ListNode* head, int k)
            travel = travel->next;
            Tcount++;
         }
-        else
+        else if(travel->next != NULL || Tcount <= k - 2)
         {
             return reverse(head);
         }
+        else
+        {
+            return head;
+        }
     }
-    struct ListNode* new = travel->next;
-    travel->next= NULL;
+    struct ListNode* new;
+    if(travel == NULL)
+    {
+        new = NULL;
+    }
+    else
+    {
+        new = travel->next;
+        travel->next = NULL;
+    }
+    //printf("pre-new:\n");
+    //display(new);
     struct ListNode* reNew = reverseKGroupD(new,k);
-//    printf("reNew\n");
-//    display(reNew);
-//    printf("new\n");
-//    display(new);
-//    printf("head\n");
-//    display(head);
+   // printf("reNew\n");
+   // display(reNew);
+   // printf("new\n");
+   // display(new);
+   // printf("head\n");
+   // display(head);
     struct ListNode* Ttravel = new;
+    if(Ttravel == NULL) return NULL;
     while(Ttravel->next != NULL)
     {
         Ttravel = Ttravel->next;
