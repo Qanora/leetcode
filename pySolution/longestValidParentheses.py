@@ -8,7 +8,7 @@ class Solution:
                 continue
             a.append(s[i])
             if (a[len(a) - 1] == ')' and isinstance(a[len(a) - 2], int)):
-                for j in range(len(a) - 2,-1,-1):
+                for j in range(len(a) - 2, -1, -1):
                     if a[j] == '(':
                         print("pop" + str(a.pop(j)))
                         print("pop" + str(a.pop()))
@@ -20,20 +20,16 @@ class Solution:
                 a.pop()
                 a.pop()
                 a.append(2)
-            if( len(a) >= 2 and isinstance(a[len(a) - 1], int) and isinstance(a[len(a) - 2],int)):
+            if len(a) >= 2 and isinstance(a[len(a) - 1], int) and \
+                    isinstance(a[len(a) - 2], int):
                 a.append(a.pop() + a.pop())
         max = 0
         for i in range(len(a)):
-            if (isinstance(a[i],int)) and a[i] > max:
+            if (isinstance(a[i], int)) and a[i] > max:
                 max = a[i]
         print(a)
         return max
 
 
-
-
 s = Solution().longestValidParentheses("()(())")
 print(s)
-
-
-
