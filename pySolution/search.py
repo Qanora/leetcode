@@ -36,3 +36,5 @@ class Solution:
                     if nums[i] < nums[i - 1]:
                         break
             return -1
+
+Solution().search([4,5,6,7,0,1,2],6)
