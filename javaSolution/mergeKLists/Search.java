@@ -1,5 +1,6 @@
+import java.util.*;
 public class Search {
-    public bool search(int A[], int n, int key) {
+    public boolean search(int A[], int n, int key) {
         int l = 0, r = n - 1;
         while (l <= r) {
             int m = l + (r - l)/2;
@@ -19,9 +20,4 @@ public class Search {
         return false;
     }
 
-    public static void main(String[] args)
-    {
-        Search a = new Search();
-        a.search(new ArrayList<Integer>(0,1,11,10,9,8,7,5),11)
-    }
 }

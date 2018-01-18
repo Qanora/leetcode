@@ -8,8 +8,7 @@ public class Solution {
         ListNode(int x) {val = x;}
     }
     public ListNode mergeKLists(List<ListNode> lists) {
-        
-        
+
         if (lists==null||lists.size()==0) return null;
         PriorityQueue<ListNode> queue= new PriorityQueue<ListNode>(lists.size(),new Comparator<ListNode>(){
             @Override

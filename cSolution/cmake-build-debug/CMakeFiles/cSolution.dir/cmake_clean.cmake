@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/cSolution.dir/addTwoNumber.c.o"
+  "CMakeFiles/cSolution.dir/convert.c.o"
+  "CMakeFiles/cSolution.dir/divide.c.o"
+  "CMakeFiles/cSolution.dir/findMedianSortedArrays.c.o"
+  "CMakeFiles/cSolution.dir/fourSum.c.o"
+  "CMakeFiles/cSolution.dir/generateParenthesis.c.o"
+  "CMakeFiles/cSolution.dir/intToRoman.c.o"
+  "CMakeFiles/cSolution.dir/isMatch.c.o"
+  "CMakeFiles/cSolution.dir/isPalindrome.c.o"
+  "CMakeFiles/cSolution.dir/isValid.c.o"
+  "CMakeFiles/cSolution.dir/LengthOfLongest.c.o"
+  "CMakeFiles/cSolution.dir/letterCombinations.c.o"
+  "CMakeFiles/cSolution.dir/longestCommonPrefix.c.o"
+  "CMakeFiles/cSolution.dir/longestPalindrome.c.o"
+  "CMakeFiles/cSolution.dir/maxArea.c.o"
+  "CMakeFiles/cSolution.dir/mergeKLists.c.o"
+  "CMakeFiles/cSolution.dir/mergeTwoLists.c.o"
+  "CMakeFiles/cSolution.dir/myAtoi.c.o"
+  "CMakeFiles/cSolution.dir/removeDuplicates.c.o"
+  "CMakeFiles/cSolution.dir/removeElement.c.o"
+  "CMakeFiles/cSolution.dir/removeNthFromEnd.c.o"
+  "CMakeFiles/cSolution.dir/reverse.c.o"
+  "CMakeFiles/cSolution.dir/reverseKGroup.c.o"
+  "CMakeFiles/cSolution.dir/romanToInt.c.o"
+  "CMakeFiles/cSolution.dir/standard.c.o"
+  "CMakeFiles/cSolution.dir/strStr.c.o"
+  "CMakeFiles/cSolution.dir/swapPairs.c.o"
+  "CMakeFiles/cSolution.dir/text.c.o"
+  "CMakeFiles/cSolution.dir/text2Malloc.c.o"
+  "CMakeFiles/cSolution.dir/threeSum.c.o"
+  "CMakeFiles/cSolution.dir/threeSumClosest.c.o"
+  "CMakeFiles/cSolution.dir/twoSum.c.o"
+  "cSolution.pdb"
+  "cSolution"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/cSolution.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
