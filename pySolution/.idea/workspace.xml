@@ -2,62 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8975c7a-b8b1-4ea5-9090-1db6de2a912c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/BSTIterator.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/MinStack.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/TreeNodeUtils.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Trie.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WordDictionary.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/calculate.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/calculateMinimumHP.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/canFinish.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/combinationSum3.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/compareVersion.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/computeArea.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/containsNearbyAlmostDuplicate.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/containsNearbyDuplicate.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/convertToTitle.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/countNodes.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/countPrimes.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/evalRPN.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/findKthLargest.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/findMin.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/findOrder.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/findPeakElement.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/findWords.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fractionToDecimal.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/getIntersectionNode.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/getSkyline.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hammingWeight.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/isHappy.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/isIsomorphic.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/largestNumber.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/majorityElement.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/maxProduct.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/maximalSquare.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/maximumGap.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/numIslands.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pySnippets/summaryRanges.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/rangeBitwiseAnd.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/removeElements.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/reverseBits.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/reverseList.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/reverseWords.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/rightSideView.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/rob.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/rotate-189.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shortestPalindrome.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/titleToNumber.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/trailingZeroes.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/twoSum.py" />
-      <change beforePath="$PROJECT_DIR$/../cSolution/a.out" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../javaSolution/.idea/javaSolution.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../javaSolution/.idea/misc.xml" afterPath="$PROJECT_DIR$/../javaSolution/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/../javaSolution/.idea/modules.xml" afterPath="$PROJECT_DIR$/../javaSolution/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/../javaSolution/.idea/vcs.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../javaSolution/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../javaSolution/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../javaSolution/mergeKLists/Search.java" afterPath="$PROJECT_DIR$/../javaSolution/mergeKLists/Search.java" />
-      <change beforePath="$PROJECT_DIR$/../javaSolution/mergeKLists/Solution.java" afterPath="$PROJECT_DIR$/../javaSolution/mergeKLists/Solution.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Codec.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MedianFinder.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/addOperators.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/canWinNim.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/diffWaysToCompute.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/findDuplicate.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gameOfLife.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/getHint.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/isPalindrome-234.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/isPowerOfTwo.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/isUgly.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kthSmallest.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lengthOfLIS.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lowestCommonAncestor.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/maxSlidingWindow.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/nthUglyNumber.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/numSquares.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/searchMatrix-240.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wordPattern.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/pySnippets/summaryRanges.py" afterPath="$PROJECT_DIR$/summaryRanges.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -78,6 +43,7 @@
     <SUITE FILE_PATH="coverage/pySolution$canJump.coverage" NAME="canJump Coverage Results" MODIFIED="1512537878654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$multiply.coverage" NAME="multiply Coverage Results" MODIFIED="1511928323907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$insertionSortList.coverage" NAME="insertionSortList Coverage Results" MODIFIED="1515237166756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pySolution$maxSlidingWindow.coverage" NAME="maxSlidingWindow Coverage Results" MODIFIED="1516421590157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$search.coverage" NAME="search Coverage Results" MODIFIED="1513680860370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$maximumGap.coverage" NAME="maximumGap Coverage Results" MODIFIED="1515477392216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$containsNearbyDuplicate.coverage" NAME="containsNearbyDuplicate Coverage Results" MODIFIED="1516168575904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -91,13 +57,16 @@
     <SUITE FILE_PATH="coverage/pySolution$fullJustify.coverage" NAME="fullJustify Coverage Results" MODIFIED="1513237535909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$uniquePaths.coverage" NAME="uniquePaths Coverage Results" MODIFIED="1512895414965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$countPrimes.coverage" NAME="countPrimes Coverage Results" MODIFIED="1515834429027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pySolution$lowestCommonAncestor.coverage" NAME="lowestCommonAncestor Coverage Results" MODIFIED="1516352579770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$findWords.coverage" NAME="findWords Coverage Results" MODIFIED="1516004495985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$sortColors.coverage" NAME="sortColors Coverage Results" MODIFIED="1513403564764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pySolution$diffWaysToCompute.coverage" NAME="diffWaysToCompute Coverage Results" MODIFIED="1516442376321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$maximalRectangle.coverage" NAME="maximalRectangle Coverage Results" MODIFIED="1513834873539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$containsNearbyAlmostDuplicate.coverage" NAME="containsNearbyAlmostDuplicate Coverage Results" MODIFIED="1516248668707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$solve.coverage" NAME="solve Coverage Results" MODIFIED="1514791215788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$compareVersion.coverage" NAME="compareVersion Coverage Results" MODIFIED="1515486773753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$lengthOfLastWord.coverage" NAME="lengthOfLastWord Coverage Results" MODIFIED="1512710855514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pySolution$kthSmallest.coverage" NAME="kthSmallest Coverage Results" MODIFIED="1516341081121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$largestRectangleArea.coverage" NAME="largestRectangleArea Coverage Results" MODIFIED="1513752887317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$reverseWords.coverage" NAME="reverseWords Coverage Results" MODIFIED="1515252735817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$isInterleave.coverage" NAME="isInterleave Coverage Results" MODIFIED="1514091614919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -108,7 +77,9 @@
     <SUITE FILE_PATH="coverage/pySolution$ladderLength.coverage" NAME="ladderLength Coverage Results" MODIFIED="1514714348726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$maxProfit_123.coverage" NAME="maxProfit-123 Coverage Results" MODIFIED="1514632841576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$grayCode.coverage" NAME="grayCode Coverage Results" MODIFIED="1513914237026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pySolution$numSquares.coverage" NAME="numSquares Coverage Results" MODIFIED="1516519965371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$nextPermutation.coverage" NAME="nextPermutation Coverage Results" MODIFIED="1510890159096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pySolution$gameOfLife.coverage" NAME="gameOfLife Coverage Results" MODIFIED="1516610994549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$totalNQueens.coverage" NAME="totalNQueens Coverage Results" MODIFIED="1512444445374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$canCompleteCircuit.coverage" NAME="canCompleteCircuit Coverage Results" MODIFIED="1515046782672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$getRow.coverage" NAME="getRow Coverage Results" MODIFIED="1514534149540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -116,6 +87,7 @@
     <SUITE FILE_PATH="coverage/pySolution$jump.coverage" NAME="jump Coverage Results" MODIFIED="1512027089186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$generateTrees.coverage" NAME="generateTrees Coverage Results" MODIFIED="1514100005896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$minWindow.coverage" NAME="minWindow Coverage Results" MODIFIED="1513651352878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pySolution$searchMatrix_240.coverage" NAME="searchMatrix-240 Coverage Results" MODIFIED="1516423039421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$deleteDuplicates_83.coverage" NAME="deleteDuplicates-83 Coverage Results" MODIFIED="1513746364231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$twoSum.coverage" NAME="twoSum Coverage Results" MODIFIED="1515488388880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$fractionToDecimal.coverage" NAME="fractionToDecimal Coverage Results" MODIFIED="1515487580155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -126,7 +98,9 @@
     <SUITE FILE_PATH="coverage/pySolution$wordBreak.coverage" NAME="wordBreak Coverage Results" MODIFIED="1515073634714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$rob.coverage" NAME="rob Coverage Results" MODIFIED="1516008778997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$groupAnagrams.coverage" NAME="groupAnagrams Coverage Results" MODIFIED="1512204255978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pySolution$getHint.coverage" NAME="getHint Coverage Results" MODIFIED="1516708996573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$reverseBits.coverage" NAME="reverseBits Coverage Results" MODIFIED="1515742452136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pySolution$isPalindrome_234.coverage" NAME="isPalindrome-234 Coverage Results" MODIFIED="1516346810556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$sortedArrayToBST.coverage" NAME="sortedArrayToBST Coverage Results" MODIFIED="1514275490386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$hammingWeight.coverage" NAME="hammingWeight Coverage Results" MODIFIED="1515745965833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$merge_88.coverage" NAME="merge-88 Coverage Results" MODIFIED="1513913838158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -140,20 +114,25 @@
     <SUITE FILE_PATH="coverage/pySolution$maxProfit.coverage" NAME="maxProfit Coverage Results" MODIFIED="1514621435353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$isPalindrome.coverage" NAME="isPalindrome Coverage Results" MODIFIED="1514700087364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$Trie.coverage" NAME="Trie Coverage Results" MODIFIED="1515917653734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pySolution$findDuplicate.coverage" NAME="findDuplicate Coverage Results" MODIFIED="1516607429396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$numDistinct.coverage" NAME="numDistinct Coverage Results" MODIFIED="1514529853120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$summaryRanges.coverage" NAME="summaryRanges Coverage Results" MODIFIED="1516275112755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pySnippets" />
     <SUITE FILE_PATH="coverage/pySolution$spiralOrder.coverage" NAME="spiralOrder Coverage Results" MODIFIED="1512533605994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$numDecodings.coverage" NAME="numDecodings Coverage Results" MODIFIED="1513922749370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$minCut.coverage" NAME="minCut Coverage Results" MODIFIED="1515037614263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$partition_131.coverage" NAME="partition-131 Coverage Results" MODIFIED="1514963308017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pySolution$isPowerOfTwo.coverage" NAME="isPowerOfTwo Coverage Results" MODIFIED="1516341178497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$candy.coverage" NAME="candy Coverage Results" MODIFIED="1515055131908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$reorederList.coverage" NAME="reorederList Coverage Results" MODIFIED="1515155372700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$maxProduct.coverage" NAME="maxProduct Coverage Results" MODIFIED="1515392951890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pySolution$addOperators.coverage" NAME="addOperators Coverage Results" MODIFIED="1516520082306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$combinationSum.coverage" NAME="combinationSum Coverage Results" MODIFIED="1511677128058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pySolution$isUgly.coverage" NAME="isUgly Coverage Results" MODIFIED="1516514562106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$getPermutation.coverage" NAME="getPermutation Coverage Results" MODIFIED="1512887465768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$search_81.coverage" NAME="search-81 Coverage Results" MODIFIED="1513740323227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$findSubstring.coverage" NAME="findSubstring Coverage Results" MODIFIED="1510885906416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$generate.coverage" NAME="generate Coverage Results" MODIFIED="1514529936620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pySolution$lengthOfLIS.coverage" NAME="lengthOfLIS Coverage Results" MODIFIED="1516710110265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$copyRandomList.coverage" NAME="copyRandomList Coverage Results" MODIFIED="1515068221917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$solveSudoku.coverage" NAME="solveSudoku Coverage Results" MODIFIED="1511619404393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$calculateMinimumHP.coverage" NAME="calculateMinimumHP Coverage Results" MODIFIED="1515585019191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -162,6 +141,7 @@
     <SUITE FILE_PATH="coverage/pySolution$longestValidParentheses.coverage" NAME="longestValidParentheses Coverage Results" MODIFIED="1511321954100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$trailingZeroes.coverage" NAME="trailingZeroes Coverage Results" MODIFIED="1515564721085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$findOrder.coverage" NAME="findOrder Coverage Results" MODIFIED="1515933310539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pySolution$canWinNim.coverage" NAME="canWinNim Coverage Results" MODIFIED="1516615413670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$permute.coverage" NAME="permute Coverage Results" MODIFIED="1512033809102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$shortestPalindrome.coverage" NAME="shortestPalindrome Coverage Results" MODIFIED="1516015604951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$convertToTitle.coverage" NAME="convertToTitle Coverage Results" MODIFIED="1515503523508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -184,6 +164,7 @@
     <SUITE FILE_PATH="coverage/pySolution$getSkyline.coverage" NAME="getSkyline Coverage Results" MODIFIED="1516168427006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$uniquePathsWithObstacles.coverage" NAME="uniquePathsWithObstacles Coverage Results" MODIFIED="1512906815010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$restoreIpAddresses.coverage" NAME="restoreIpAddresses Coverage Results" MODIFIED="1513938996103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pySolution$Codec.coverage" NAME="Codec Coverage Results" MODIFIED="1516689440346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$isValidBST.coverage" NAME="isValidBST Coverage Results" MODIFIED="1514101322910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$plusOne.coverage" NAME="plusOne Coverage Results" MODIFIED="1512977506665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$insert.coverage" NAME="insert Coverage Results" MODIFIED="1512710521492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -191,9 +172,11 @@
     <SUITE FILE_PATH="coverage/pySolution$findMin.coverage" NAME="findMin Coverage Results" MODIFIED="1515396445437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$isIsomorphic.coverage" NAME="isIsomorphic Coverage Results" MODIFIED="1515836722114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$BSTIterator.coverage" NAME="BSTIterator Coverage Results" MODIFIED="1515567798016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pySolution$MedianFinder.coverage" NAME="MedianFinder Coverage Results" MODIFIED="1516621564059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$solveNQueens.coverage" NAME="solveNQueens Coverage Results" MODIFIED="1512443585390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$exist.coverage" NAME="exist Coverage Results" MODIFIED="1513664742137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pySolution$subsetsWithDup.coverage" NAME="subsetsWithDup Coverage Results" MODIFIED="1513916467126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pySolution$wordPattern.coverage" NAME="wordPattern Coverage Results" MODIFIED="1516611955338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -209,101 +192,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="rob.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rob.py">
+      <file leaf-file-name="Codec.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Codec.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="315">
+              <caret line="21" column="47" lean-forward="false" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shortestPalindrome.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shortestPalindrome.py">
+      <file leaf-file-name="getHint.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/getHint.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="46" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="findKthLargest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/findKthLargest.py">
+      <file leaf-file-name="lengthOfLIS.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lengthOfLIS.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="containsNearbyDuplicate.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/containsNearbyDuplicate.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="containsNearbyAlmostDuplicate.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/containsNearbyAlmostDuplicate.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="60" lean-forward="false" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="maximalSquare.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maximalSquare.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="countNodes.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/countNodes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="computeArea.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/computeArea.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="calculate.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/calculate.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="summaryRanges.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pySnippets/summaryRanges.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="19" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -317,25 +230,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ListNodeUtils.py" />
-        <option value="$PROJECT_DIR$/sortList.py" />
-        <option value="$PROJECT_DIR$/pySnippets/map with *.py" />
-        <option value="$PROJECT_DIR$/evalRPN.py" />
-        <option value="$PROJECT_DIR$/reverseWords.py" />
-        <option value="$PROJECT_DIR$/maxProduct.py" />
-        <option value="$PROJECT_DIR$/findMin.py" />
-        <option value="$PROJECT_DIR$/generateMatrix.py" />
-        <option value="$PROJECT_DIR$/MinStack.py" />
-        <option value="$PROJECT_DIR$/getIntersectionNode.py" />
-        <option value="$PROJECT_DIR$/findPeakElement.py" />
-        <option value="$PROJECT_DIR$/maximumGap.py" />
-        <option value="$PROJECT_DIR$/compareVersion.py" />
-        <option value="$PROJECT_DIR$/fractionToDecimal.py" />
-        <option value="$PROJECT_DIR$/twoSum.py" />
-        <option value="$PROJECT_DIR$/convertToTitle.py" />
-        <option value="$PROJECT_DIR$/majorityElement.py" />
-        <option value="$PROJECT_DIR$/titleToNumber.py" />
-        <option value="$PROJECT_DIR$/trailingZeroes.py" />
         <option value="$PROJECT_DIR$/TreeNodeUtils.py" />
         <option value="$PROJECT_DIR$/BSTIterator.py" />
         <option value="$PROJECT_DIR$/calculateMinimumHP.py" />
@@ -368,6 +262,25 @@
         <option value="$PROJECT_DIR$/computeArea.py" />
         <option value="$PROJECT_DIR$/calculate.py" />
         <option value="$PROJECT_DIR$/pySnippets/summaryRanges.py" />
+        <option value="$PROJECT_DIR$/kthSmallest.py" />
+        <option value="$PROJECT_DIR$/isPowerOfTwo.py" />
+        <option value="$PROJECT_DIR$/isPalindrome-234.py" />
+        <option value="$PROJECT_DIR$/lowestCommonAncestor.py" />
+        <option value="$PROJECT_DIR$/maxSlidingWindow.py" />
+        <option value="$PROJECT_DIR$/searchMatrix-240.py" />
+        <option value="$PROJECT_DIR$/diffWaysToCompute.py" />
+        <option value="$PROJECT_DIR$/isUgly.py" />
+        <option value="$PROJECT_DIR$/nthUglyNumber.py" />
+        <option value="$PROJECT_DIR$/numSquares.py" />
+        <option value="$PROJECT_DIR$/addOperators.py" />
+        <option value="$PROJECT_DIR$/findDuplicate.py" />
+        <option value="$PROJECT_DIR$/gameOfLife.py" />
+        <option value="$PROJECT_DIR$/wordPattern.py" />
+        <option value="$PROJECT_DIR$/canWinNim.py" />
+        <option value="$PROJECT_DIR$/MedianFinder.py" />
+        <option value="$PROJECT_DIR$/Codec.py" />
+        <option value="$PROJECT_DIR$/getHint.py" />
+        <option value="$PROJECT_DIR$/lengthOfLIS.py" />
       </list>
     </option>
   </component>
@@ -377,7 +290,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1440" />
     <option name="height" value="878" />
@@ -399,7 +312,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -407,15 +319,11 @@
               <item name="pySolution" type="b2602c69:ProjectViewProjectNode" />
               <item name="pySolution" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="pySolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pySolution" type="462c0819:PsiDirectoryNode" />
-              <item name="pySnippets" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -431,6 +339,11 @@
       </console-settings>
     </option>
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -443,8 +356,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.summaryRanges">
-    <configuration name="computeArea" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.lengthOfLIS">
+    <configuration name="Codec" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -457,13 +370,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pySolution" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/computeArea.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codec.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="containsNearbyAlmostDuplicate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MedianFinder" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -476,13 +389,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pySolution" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/containsNearbyAlmostDuplicate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MedianFinder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="containsNearbyDuplicate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="canWinNim" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -495,13 +408,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pySolution" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/containsNearbyDuplicate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/canWinNim.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="maximalSquare" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="getHint" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -514,45 +427,45 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pySolution" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/maximalSquare.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getHint.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="summaryRanges" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lengthOfLIS" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pySnippets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pySolution" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pySnippets/summaryRanges.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lengthOfLIS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.containsNearbyDuplicate" />
-      <item index="1" class="java.lang.String" itemvalue="Python.containsNearbyAlmostDuplicate" />
-      <item index="2" class="java.lang.String" itemvalue="Python.maximalSquare" />
-      <item index="3" class="java.lang.String" itemvalue="Python.computeArea" />
-      <item index="4" class="java.lang.String" itemvalue="Python.summaryRanges" />
+      <item index="0" class="java.lang.String" itemvalue="Python.canWinNim" />
+      <item index="1" class="java.lang.String" itemvalue="Python.MedianFinder" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Codec" />
+      <item index="3" class="java.lang.String" itemvalue="Python.getHint" />
+      <item index="4" class="java.lang.String" itemvalue="Python.lengthOfLIS" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.summaryRanges" />
-        <item index="1" class="java.lang.String" itemvalue="Python.computeArea" />
-        <item index="2" class="java.lang.String" itemvalue="Python.maximalSquare" />
-        <item index="3" class="java.lang.String" itemvalue="Python.containsNearbyAlmostDuplicate" />
-        <item index="4" class="java.lang.String" itemvalue="Python.containsNearbyDuplicate" />
+        <item index="0" class="java.lang.String" itemvalue="Python.lengthOfLIS" />
+        <item index="1" class="java.lang.String" itemvalue="Python.getHint" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Codec" />
+        <item index="3" class="java.lang.String" itemvalue="Python.MedianFinder" />
+        <item index="4" class="java.lang.String" itemvalue="Python.canWinNim" />
       </list>
     </recent_temporary>
   </component>
@@ -573,16 +486,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="878" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="878" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21578947" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21578947" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32188842" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25965664" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -740,9 +653,39 @@
           <option name="timeStamp" value="454" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/pySnippets/summaryRanges.py</url>
+          <url>file://$PROJECT_DIR$/summaryRanges.py</url>
           <line>11</line>
           <option name="timeStamp" value="455" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/searchMatrix-240.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="470" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gameOfLife.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="482" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Codec.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="494" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Codec.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="495" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Codec.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="496" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Codec.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="497" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -752,7 +695,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="456" />
+      <option name="time" value="502" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -773,166 +716,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sortList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reverseWords.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maxProduct.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generateMatrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MinStack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/evalRPN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ListNodeUtils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/getIntersectionNode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/findPeakElement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maximumGap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/compareVersion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/findMin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fractionToDecimal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/twoSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="37" lean-forward="false" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/majorityElement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/convertToTitle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/titleToNumber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trailingZeroes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TreeNodeUtils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/calculateMinimumHP.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="52" column="43" lean-forward="false" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BSTIterator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/largestNumber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rotate-189.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1011,13 +794,6 @@
         <state relative-caret-position="30">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="14" selection-end-column="19" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4620">
-          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1135,8 +911,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/computeArea.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
+        <state relative-caret-position="0">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kthSmallest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isPowerOfTwo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isPalindrome-234.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="18" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lowestCommonAncestor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maxSlidingWindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summaryRanges.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="43" lean-forward="false" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
           <folding />
         </state>
       </provider>
@@ -1149,10 +973,144 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pySnippets/summaryRanges.py">
+    <entry file="file://$PROJECT_DIR$/searchMatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="40" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/searchMatrix-240.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diffWaysToCompute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="7" lean-forward="false" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isUgly.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nthUglyNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/numSquares.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="19" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addOperators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MedianFinder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/canWinNim.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordPattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gameOfLife.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="30" column="33" lean-forward="false" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/findDuplicate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="1071" column="0" lean-forward="false" selection-start-line="1071" selection-start-column="0" selection-end-line="1071" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Codec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="47" lean-forward="false" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getHint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lengthOfLIS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="22" />
           <folding />
         </state>
       </provider>
